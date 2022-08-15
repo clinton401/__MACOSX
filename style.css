@@ -1,0 +1,44 @@
+.ban{
+    background-color: white;
+    height: 64px;
+}
+.ban1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+}
+.ban2{
+    background-color: darkgray;
+}
+.ban3{
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+    font-weight: bold;
+    font-size: 20px;
+}
+.ban4{
+    text-align: center;
+    padding-bottom: 24px;
+}
+.ban5{
+    background-color: gray;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 32px;
+}
+.ban6{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.ban7{
+    background-color: white;
+
+}
+.ban8{
+    text-align: center;
+}
